@@ -7,6 +7,9 @@ import javax.crypto.spec.PSource;
 public class B1 {
     public static void main(String[] args) {
         System.out.println("this is B1");
+        System.out.println();
 
+        System.out.println("aa" +
+                "");
     }
 }
